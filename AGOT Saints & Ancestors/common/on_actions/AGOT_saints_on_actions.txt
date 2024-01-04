@@ -1,7 +1,0 @@
-on_death = {
-	events = {
-		HFAGOTSAINTS.40000 # Potential Beatification
-		HFAGOTSAINTS.40090 # Potential bad Papal beatification
-		HFAGOTSAINTS.40100 # Potential Ancestor Worship
-	}
-}
